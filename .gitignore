@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Data and generated artifacts
+data/
+outputs/
+*.pt
+*.pth
+*.ckpt
+colab_package/
+colab_package.zip
+
+# System
+.DS_Store

@@ -1,0 +1,11 @@
+cairosvg==2.9.0
+datasets==4.8.4
+lxml==6.1.0
+matplotlib==3.10.9
+mup==1.0.0
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.17.1
+sentencepiece==0.2.1
+torch==2.11.0
+tqdm==4.67.3

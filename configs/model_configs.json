@@ -1,0 +1,42 @@
+[
+  {
+    "model_name": "tiny",
+    "n_layer": 4,
+    "n_head": 4,
+    "n_embd": 128,
+    "dropout": 0.1,
+    "param_count": 1468098
+  },
+  {
+    "model_name": "small",
+    "n_layer": 4,
+    "n_head": 4,
+    "n_embd": 256,
+    "dropout": 0.1,
+    "param_count": 4506562
+  },
+  {
+    "model_name": "medium",
+    "n_layer": 6,
+    "n_head": 6,
+    "n_embd": 384,
+    "dropout": 0.1,
+    "param_count": 12666818
+  },
+  {
+    "model_name": "large",
+    "n_layer": 8,
+    "n_head": 8,
+    "n_embd": 512,
+    "dropout": 0.1,
+    "param_count": 27911618
+  },
+  {
+    "model_name": "xlarge",
+    "n_layer": 10,
+    "n_head": 8,
+    "n_embd": 512,
+    "dropout": 0.1,
+    "param_count": 34216386
+  }
+]
